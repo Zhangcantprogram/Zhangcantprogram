@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![亮色](https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake.svg)
-
+<!--![亮色](https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake.svg)-->
+![暗色](https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **Zhangcantprogram/Zhangcantprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
