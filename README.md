@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![暗色](https://raw.githubusercontent.com/Zhangcantprogram/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![亮色](https://raw.githubusercontent.com/Zhangcantprogram/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <!--
 **Zhangcantprogram/Zhangcantprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
