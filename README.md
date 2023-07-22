@@ -1,3 +1,23 @@
+#  ✨✨✨ Hello
+
+<tr><td>
+
+<!-- About me 关于我 -->
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+
+<p>&emsp;&emsp;大家好，我是小张同学。</p>
+<p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机和IT互联网事业，励志成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;希望能够让世界和自己变得更美好。</p>
+<p><strong>&emsp;&emsp;Hoping to make the world and myself a better place.</strong></p>
+
+</td></tr>
+
+<tr>
+<td>
+
 <div align="center">
 
 <!-- dynamic typing effect 动态打字效果 -->
@@ -16,22 +36,15 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-
 </div>
+  
+  <div align="center"> 
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhangcantprogram&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhangcantprogram&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+  </div>
 
 
-<!--
-**Zhangcantprogram/Zhangcantprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
