@@ -3,12 +3,15 @@
 ### A undergraduate student studying Golang.👨‍💻👨‍💻👨‍💻
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=18A8F7&center=true&vCenter=true&width=435&lines=%E5%B0%8F%E5%BC%A0%E5%90%8C%E5%AD%A6%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%8A%AA%E5%8A%9B%E9%B8%AD%EF%BC%81;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%EF%BC%81)](https://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhangcantprogram&count_private=true&show_icons=true&theme=radical)
 
 
 
 ![亮色](https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake.svg)
 <!--![暗色](https://github.com/Zhangcantprogram/Zhangcantprogram/blob/output/github-contribution-grid-snake-dark.svg)-->
+
+
+
 
 <!--
 **Zhangcantprogram/Zhangcantprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
