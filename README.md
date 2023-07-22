@@ -5,7 +5,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="120" src="https://github.com/Zhangcantprogram/Zhangcantprogram/blob/main/images/golang_logo1.png?raw=true" />
+<img align="right" width="150" src="https://github.com/Zhangcantprogram/Zhangcantprogram/blob/main/images/golang_logo1.png?raw=true" />
 
 <p>&emsp;&emsp;大家好，我是小张同学。</p>
 <p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
