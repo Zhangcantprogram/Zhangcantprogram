@@ -11,7 +11,7 @@
 <p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;希望能够让世界和自己变得更美好。</p>
-<p><strong>&emsp;&emsp;Hoping to make the world and myself a better place.</strong></p>
+<p><strong>&emsp;&emsp;Hoping to make the world and myself better.</strong></p>
 
 </td></tr>
 
