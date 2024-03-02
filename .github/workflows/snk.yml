@@ -9,10 +9,10 @@ on:
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    branches:
+  # push:
+    # branches:
     # - master
-    - main
+    # - main
     
   
 
