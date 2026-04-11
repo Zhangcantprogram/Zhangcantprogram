@@ -7,10 +7,10 @@
 
 <img align="right" width="290" src="https://github.com/Zhangcantprogram/Zhangcantprogram/blob/main/images/golang_logo1.png?raw=true" />
 
-<p>&emsp;&emsp;大家好，我是小张同学，现是一名武汉在校研一学生。</p>
-<p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;希望能够让世界和自己变得更美好。</p>
+<p>&emsp;&emsp;大家好，我是小张同学，现是一名武汉在校研二学生。</p>
+<!-- <p>&emsp;&emsp;热爱编程、游戏、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机和IT互联网事业。</p>
+<p>&emsp;&emsp;希望能够让世界和自己变得更美好。</p> -->
 <p><strong>&emsp;&emsp;Hoping to make the world and myself better.</strong></p>
 
 </td></tr>
